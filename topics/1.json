@@ -1,5 +1,5 @@
 {
-    "title": "Диаграммы IDEF0 и DFD",
+    "title": "Диаграммы IDEF0 и DFD ",
     "items": [
         {
             "type": "text",
@@ -14,90 +14,60 @@
             "type": "text",
             "data": [
                 {
-                    "text": "*А1 Управление взаимодействием с клиентами *A2 Обработка заявки *А3 Выполнение заказа *А4 Завершение заказа",
+                    "text": "А0 Управление процессами взаимодействия клиентов с организацией ",
                     "class": "md-title"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Диаграмма создана с помощью "
-                },
-                {
-                    "text": "PlantUML",
-                    "link": "https://plantuml.com"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool."
                 }
             ]
         },
         {
             "type": "image",
-            "data": "img/use-case-diagram.png"
+            "data": "img/А0.PNG"
         },
+        
+
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Постусловия",
+                    "text": "A2 Обработка заявки ",
                     "class": "md-title"
                 }
             ]
         },
         {
-            "type": "list",
-            "data": [
-                [{
-                    "text": "сформирована личная страница с использованием HTML, CSS, JS"
-                }],
-                [{
-                    "text": "на личной странице зарезервированы места для описания результатов всех следующих лабораторных работ"
-                }],
-                [{
-                    "text": "ссылка на личную страницу записана в списке группы"
-                }]
-            ]
+            "type": "image",
+            "data": "img/А2.png"
         },
+        
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Основной поток (main flow)",
+                    "text": "А3 Выполнение заказа",
                     "class": "md-title"
                 }
             ]
         },
         {
-            "type": "table",
-            "data": {
-                "columns": [
-                    {
-                        "id": "member",
-                        "name": "Участник"
-                    },
-                    {
-                        "id": "action",
-                        "name": "Действие"
-                    },
-                    {
-                        "id": "result",
-                        "name": "Ожидаемый результат"
-                    }
-                ],
-                "rows": [
-                    {"member": "Студент", "action": "Формирует личную веб-страницу", "result": "Личная веб-страница на хостинге <имя>.github.io"},
-                    {"member": "Студент", "action": "Описывает выбранный прецедент", "result": "Описание прецедента на хостинге <имя>.github.io"},
-                    {"member": "Студент", "action": "Формирует диаграмму Use Case", "result": "Диаграмма прецедента на хостинге <имя>.github.io"}
-                ]
-            }
+            "type": "image",
+            "data": "img/А3.PNG"
+        },
+        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "А4 Завершение заказа",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/А4.PNG"
         }
+        
+        
+       
     ]
 }
