@@ -14,6 +14,19 @@
             "type": "text",
             "data": [
                 {
+                    "text": "A-0 ",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/А-0.PNG"
+        }
+        {
+            "type": "text",
+            "data": [
+                {
                     "text": "А0 Управление процессами взаимодействия клиентов с организацией ",
                     "class": "md-title"
                 }
@@ -65,8 +78,68 @@
         {
             "type": "image",
             "data": "img/А4.PNG"
-        }
-        
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "DFD Диаграммы",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "А21 Создание заявки",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/А21.PNG"
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "А22 Проверка требований заказчика на выполнимость",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/А22.PNG"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "А23 Оформление заказа",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/A23.png"
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "А24 Передача на производство",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/А24.PNG"
+        },
         
        
     ]
