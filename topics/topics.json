@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Лр 1-3. Диаграммы IDEF0 и DFD.",
+        "title": "Лабораторные работы 1-3.",
+        "description": "Диаграммы IDEF0 и DFD.",
         "preview": "img/А0.PNG"
     },
     {
         "id": 2,
-        "title": "Лр. 4-7. Диаграммы UML. ",
-        "description": "Диаграмма классов",
+        "title": "Лабораторные работы 4-7. ",
+        "description": "Диаграммы UML.",
         "preview": "img/class-diagram.png"
     }
 ]
