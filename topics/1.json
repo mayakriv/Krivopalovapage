@@ -139,6 +139,32 @@
         {
             "type": "image",
             "data": "img/А24.PNG"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "А42 Организация доставки",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/А42.PNG"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "А43 Оценка работы организации",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/А43.PNG"
         }
         
        
