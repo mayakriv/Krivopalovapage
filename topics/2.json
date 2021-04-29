@@ -1,6 +1,92 @@
 {
     "title": "UML Class",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Тема ВКР: Разработка информационной системы для автоматизации процессов взаимодействия с клиентами центра полиграфии",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Use Case прецедента А2(Обработка заявки)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/а2!!!.PNG"
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ER-диаграмма потоков",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/потоки.PNG.PNG"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ER-диаграмма ролей",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/диаграмма%20ролей.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ER-диаграмма модулей",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/ERD%20диаграмма%20для%20модулей.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Sequence А22 (Проверка требований заказчика на выполнимость)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/п6.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание состава структуры программных средств системы в формате UML (Component) ",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/п7.png"
+        }
     ]
 }
